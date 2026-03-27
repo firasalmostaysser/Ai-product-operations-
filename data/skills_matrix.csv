@@ -1,0 +1,11 @@
+skill,category,current_level_1_to_5,target_level_1_to_5,evidence_link,next_action
+prompt_engineering,AI Foundations,2,4,,Write 5 reusable prompt templates for ops tasks
+n8n_automation,Workflow Automation,2,4,,Build one multi-step automation with error handling
+python_api_integration,Technical,3,4,,Create script that calls API and writes structured output
+product_ops_kpis,Product Ops,3,5,,Define KPI dashboard for one portfolio project
+gtm_research_workflow,GTM Ops,2,4,,Automate lead/account research and summarization
+agent_architecture,AI Agents,1,4,,Implement planner-executor mini-agent
+mcp_concepts,AI Infrastructure,1,3,,Write short design doc with tool/resource abstractions
+english_interview_clarity,Communication,2,4,,Record and review 5 interview answers weekly
+linkedin_build_in_public,Personal Brand,2,4,,Publish 2 structured posts per week
+job_application_customization,Career Execution,2,5,,Tailor 5 applications with role-fit evidence
