@@ -1,0 +1,5 @@
+ticket_id,source,summary,description
+T-001,email,Login issue after password reset,Customer reset password but cannot login and sees token error.
+T-002,slack,Billing invoice mismatch,Startup reports invoice amount does not match contracted plan.
+T-003,form,App slow during peak hours,Multiple users report severe latency between 9am and 11am UTC.
+T-004,email,Export CSV button broken,Clicking export does nothing on reports page for admin users.

@@ -1,0 +1,5 @@
+ticket_id,category,priority,owner_team,suggested_response
+T-001,product-bug,high,product-engineering,Ticket categorized as product-bug. Route to product-engineering with high priority.
+T-002,billing,high,finance-ops,Ticket categorized as billing. Route to finance-ops with high priority.
+T-003,general-inquiry,low,customer-support,Ticket categorized as general-inquiry. Route to customer-support for first response.
+T-004,general-inquiry,low,customer-support,Ticket categorized as general-inquiry. Route to customer-support for first response.

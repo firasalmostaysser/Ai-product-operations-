@@ -1,0 +1,4 @@
+source,company,role,location,remote_policy,url,salary_min,salary_max,currency,seniority,must_have_skills,notes,fit_score,priority,decision,score_reason,next_action
+LinkedIn,ExampleAI,AI Product Operations Specialist,Remote EMEA,Remote,https://example.com/job/1,45000,70000,EUR,mid,product ops;automation;ai tools,Good fit for technical operators,80,P1,apply_now,strong title fit; remote-friendly; good timezone fit,Apply within 24h and send outreach.
+Wellfound,GTMFlow,Revenue Operations Analyst,Remote Europe,Remote,https://example.com/job/2,50000,85000,EUR,mid,revops;crm;reporting;automation,Strong GTM metrics focus,77,P2,apply,remote-friendly; good timezone fit,Apply within 72h and send personalized outreach.
+RemoteOK,AgentStack,AI Automation Builder,Remote Global,Remote,https://example.com/job/3,35000,65000,USD,junior-mid,python;apis;n8n;llm,Great for portfolio-driven candidate,72,P2,apply,remote-friendly,Apply within 72h and send personalized outreach.

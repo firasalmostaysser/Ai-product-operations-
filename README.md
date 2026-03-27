@@ -22,6 +22,8 @@ Now we turn them into a clear, repeatable system that gets interviews, projects,
 6. `docs/06_Job_Search_OS_Tunisia_and_Remote.md`
 7. `docs/07_Interview_and_English_Accent_Playbook.md`
 8. `docs/08_Codex_Claude_Usage_Playbook.md`
+9. `docs/09_Global_Demand_and_Compensation.md`
+10. `docs/10_Automation_Agent_System_LinkedIn_Safe.md`
 
 Then use:
 
@@ -31,7 +33,11 @@ Then use:
 - `templates/interview_answer_bank_template.md` for interview prep
 - `data/job_pipeline.csv` for job applications and follow-ups
 - `data/skills_matrix.csv` to track technical growth
+- `data/jobs_leads_example.csv` for lead scoring script input
+- `data/application_packet_template.md` for CV/intro generation
 - `scripts/generate_daily_brief.py` for daily market updates
+- `scripts/score_job_leads.py` to rank leads by fit and expected pay
+- `scripts/generate_application_packets.py` to draft tailored application packets
 
 ---
 
@@ -47,6 +53,31 @@ This creates:
 
 - `daily-updates/YYYY-MM-DD.md`
 - `daily-updates/latest.md`
+
+---
+
+## Application Automation Commands (LinkedIn-safe)
+
+1) Score leads (from your CSV):
+
+```bash
+python3 scripts/score_job_leads.py --input data/jobs_leads_example.csv --output data/jobs_scored.csv
+```
+
+2) Generate tailored application packets:
+
+```bash
+python3 scripts/generate_application_packets.py --input data/jobs_scored.csv --output-dir applications --top-n 10
+```
+
+Each packet includes:
+
+- Custom intro paragraph
+- Role-fit bullet points
+- Interview talking points
+- Tailored follow-up message
+
+Use these drafts to apply manually (or with official APIs/tools). This keeps your account safe.
 
 ---
 
