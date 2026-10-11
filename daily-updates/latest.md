@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-10-10
+# Daily AI Career Brief - 2026-10-11
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **Interview and Communication**: Focus on recorded answers and concise storytelling with STAR format.
+- **Review and Planning**: Focus on weekly scoreboard, gaps, and next week's execution plan.
 
 ## Priority Themes
 
