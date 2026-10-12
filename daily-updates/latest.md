@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-10-11
+# Daily AI Career Brief - 2026-10-12
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **Review and Planning**: Focus on weekly scoreboard, gaps, and next week's execution plan.
+- **AI Product Operations**: Focus on triage quality, incident routing, and handoff documentation.
 
 ## Priority Themes
 
@@ -34,8 +34,8 @@ Use this brief to decide what to build, apply for, and publish today.
 - [OpenAI News] Asana cuts model costs 76x in browser tests with GPT-6.1 Sol (https://openai.com/index/asana-browser-agent)
 - [Hugging Face Blog] Impactful scheduling for GPU clusters (https://huggingface.co/blog/allenai/impactful-scheduling)
 - [Hugging Face Blog] The model that didn't exist, so you made it yourself (https://huggingface.co/blog/building-with-ml-intern)
+- [n8n Blog] 11 Best DevOps Automation Tools for Engineering Teams (https://blog.n8n.io/devops-automation-tools/)
 - [n8n Blog] IT Automation Software: 6 Tools for Different IT Jobs (https://blog.n8n.io/it-automation-software/)
-- [n8n Blog] How API Contract Testing Prevents Production Failures (https://blog.n8n.io/how-api-contract-testing-prevents-production-failures/)
 
 ## Non-Negotiable Daily Checklist
 
