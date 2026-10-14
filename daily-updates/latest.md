@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-10-13
+# Daily AI Career Brief - 2026-10-14
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **GTM Automation**: Focus on account research, prospect scoring, and outreach personalization.
+- **Agent Building**: Focus on tool schemas, planner-executor flow, and fallback logic.
 
 ## Priority Themes
 
@@ -30,12 +30,12 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
-- [OpenAI News] Sophos cuts threat investigation time by 96% with OpenAI Daybreak (https://openai.com/index/sophos)
-- [OpenAI News] Asana cuts model costs 76x in browser tests with GPT-6.1 Sol (https://openai.com/index/asana-browser-agent)
+- [OpenAI News] The EU’s next chapter in AI is agentic (https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic)
+- [OpenAI News] Higgsfield takes AI video from 1 minute to over 10 (https://openai.com/index/higgsfield-longer-videos-voice)
+- [Hugging Face Blog] Run fast, private agents on-device with LFM2.5-24B-A2B (https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b)
 - [Hugging Face Blog] Impactful scheduling for GPU clusters (https://huggingface.co/blog/allenai/impactful-scheduling)
-- [Hugging Face Blog] The model that didn't exist, so you made it yourself (https://huggingface.co/blog/building-with-ml-intern)
+- [n8n Blog] Build n8n workflows with Gemini 4 Argon: MCP, the Assistant, and Agents (https://blog.n8n.io/build-n8n-workflows-with-gemini-4-argon-mcp-the-assistant-and-agents/)
 - [n8n Blog] Build a morning AI news brief with You.com, Jev, and n8n (https://blog.n8n.io/spotlight-you-com/)
-- [n8n Blog] 11 Best DevOps Automation Tools for Engineering Teams (https://blog.n8n.io/devops-automation-tools/)
 
 ## Non-Negotiable Daily Checklist
 
