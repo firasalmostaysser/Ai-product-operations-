@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-10-14
+# Daily AI Career Brief - 2026-10-15
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **Agent Building**: Focus on tool schemas, planner-executor flow, and fallback logic.
+- **MCP and Integrations**: Focus on tool/resource contracts and secure system boundaries.
 
 ## Priority Themes
 
@@ -30,10 +30,10 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
-- [OpenAI News] The EU’s next chapter in AI is agentic (https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic)
-- [OpenAI News] Higgsfield takes AI video from 1 minute to over 10 (https://openai.com/index/higgsfield-longer-videos-voice)
+- [OpenAI News] Amp puts AI agents to work beyond code with OpenAI models (https://openai.com/index/amp-beyond-coding)
+- [OpenAI News] SentinelOne cuts malware analysis from weeks to hours (https://openai.com/index/sentinelone)
+- [Hugging Face Blog] HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost (https://huggingface.co/blog/allenai/hiro-acev2)
 - [Hugging Face Blog] Run fast, private agents on-device with LFM2.5-24B-A2B (https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b)
-- [Hugging Face Blog] Impactful scheduling for GPU clusters (https://huggingface.co/blog/allenai/impactful-scheduling)
 - [n8n Blog] Build n8n workflows with Gemini 4 Argon: MCP, the Assistant, and Agents (https://blog.n8n.io/build-n8n-workflows-with-gemini-4-argon-mcp-the-assistant-and-agents/)
 - [n8n Blog] Build a morning AI news brief with You.com, Jev, and n8n (https://blog.n8n.io/spotlight-you-com/)
 
