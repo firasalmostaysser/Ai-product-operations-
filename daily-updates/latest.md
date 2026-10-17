@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-10-16
+# Daily AI Career Brief - 2026-10-17
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **Portfolio and Publishing**: Focus on case-study quality, metrics narrative, and public visibility.
+- **Interview and Communication**: Focus on recorded answers and concise storytelling with STAR format.
 
 ## Priority Themes
 
@@ -30,12 +30,12 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
-- [OpenAI News] Bringing GPT-Rosalind to academic research labs (https://openai.com/index/introducing-the-rosalind-academic-plan)
-- [OpenAI News] Teaching students to think and learn through questions (https://openai.com/index/teaching-students-to-think-and-learn-through-questions)
+- [OpenAI News] How Itaú is building generative AI for its entire customer base (https://openai.com/index/itau-generative-ai)
+- [OpenAI News] Stack Overflow for Agents triples signups with ChatGPT plugin (https://openai.com/index/stack-overflow-chatgpt-plugin)
 - [Hugging Face Blog] Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline (https://huggingface.co/blog/nvidia/scaling-indic-pretraining)
-- [Hugging Face Blog] Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint (https://huggingface.co/blog/ibm-granite/granite-switch-4-1)
+- [Hugging Face Blog] Welcome Beam: a 501B open model you can own, customize, and scale (https://huggingface.co/blog/reflection-beam)
+- [n8n Blog] 12 Best Enterprise Workflow Automation Platforms (https://blog.n8n.io/enterprise-workflow-automation/)
 - [n8n Blog] Build n8n workflows with Gemini 4 Argon: MCP, the Assistant, and Agents (https://blog.n8n.io/build-n8n-workflows-with-gemini-4-argon-mcp-the-assistant-and-agents/)
-- [n8n Blog] Build a morning AI news brief with You.com, Jev, and n8n (https://blog.n8n.io/spotlight-you-com/)
 
 ## Non-Negotiable Daily Checklist
 
