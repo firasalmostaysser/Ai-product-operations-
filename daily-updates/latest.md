@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-10-17
+# Daily AI Career Brief - 2026-10-18
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **Interview and Communication**: Focus on recorded answers and concise storytelling with STAR format.
+- **Review and Planning**: Focus on weekly scoreboard, gaps, and next week's execution plan.
 
 ## Priority Themes
 
@@ -31,7 +31,7 @@ Use this brief to decide what to build, apply for, and publish today.
 ## Live Market Signals
 
 - [OpenAI News] How Itaú is building generative AI for its entire customer base (https://openai.com/index/itau-generative-ai)
-- [OpenAI News] Stack Overflow for Agents triples signups with ChatGPT plugin (https://openai.com/index/stack-overflow-chatgpt-plugin)
+- [OpenAI News] Benefit Street Partners answers questions faster with Codex (https://openai.com/index/benefit-street-partners)
 - [Hugging Face Blog] Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline (https://huggingface.co/blog/nvidia/scaling-indic-pretraining)
 - [Hugging Face Blog] Welcome Beam: a 501B open model you can own, customize, and scale (https://huggingface.co/blog/reflection-beam)
 - [n8n Blog] 12 Best Enterprise Workflow Automation Platforms (https://blog.n8n.io/enterprise-workflow-automation/)
