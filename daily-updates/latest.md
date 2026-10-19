@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-10-18
+# Daily AI Career Brief - 2026-10-19
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **Review and Planning**: Focus on weekly scoreboard, gaps, and next week's execution plan.
+- **AI Product Operations**: Focus on triage quality, incident routing, and handoff documentation.
 
 ## Priority Themes
 
@@ -34,8 +34,8 @@ Use this brief to decide what to build, apply for, and publish today.
 - [OpenAI News] Benefit Street Partners answers questions faster with Codex (https://openai.com/index/benefit-street-partners)
 - [Hugging Face Blog] Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline (https://huggingface.co/blog/nvidia/scaling-indic-pretraining)
 - [Hugging Face Blog] Welcome Beam: a 501B open model you can own, customize, and scale (https://huggingface.co/blog/reflection-beam)
+- [n8n Blog] Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API (https://blog.n8n.io/n8n-nvidia-dgx-spark/)
 - [n8n Blog] 12 Best Enterprise Workflow Automation Platforms (https://blog.n8n.io/enterprise-workflow-automation/)
-- [n8n Blog] Build n8n workflows with Gemini 4 Argon: MCP, the Assistant, and Agents (https://blog.n8n.io/build-n8n-workflows-with-gemini-4-argon-mcp-the-assistant-and-agents/)
 
 ## Non-Negotiable Daily Checklist
 
