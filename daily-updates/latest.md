@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-10-19
+# Daily AI Career Brief - 2026-10-20
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **AI Product Operations**: Focus on triage quality, incident routing, and handoff documentation.
+- **GTM Automation**: Focus on account research, prospect scoring, and outreach personalization.
 
 ## Priority Themes
 
@@ -30,12 +30,12 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
+- [OpenAI News] Advancing coding in low‑resource programming languages (https://openai.com/index/low-resource-programming-languages)
 - [OpenAI News] How Itaú is building generative AI for its entire customer base (https://openai.com/index/itau-generative-ai)
-- [OpenAI News] Benefit Street Partners answers questions faster with Codex (https://openai.com/index/benefit-street-partners)
-- [Hugging Face Blog] Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline (https://huggingface.co/blog/nvidia/scaling-indic-pretraining)
-- [Hugging Face Blog] Welcome Beam: a 501B open model you can own, customize, and scale (https://huggingface.co/blog/reflection-beam)
+- [Hugging Face Blog] MPS in PyTorch 2.15 (https://huggingface.co/blog/mps-pytorch-2-15)
+- [Hugging Face Blog] TorchNeuron: running HF models on AWS Trainium is easier than ever (https://huggingface.co/blog/hf-torchneuron)
+- [n8n Blog] Why we refreshed the n8n brand (https://blog.n8n.io/n8n-brand-refresh-2026/)
 - [n8n Blog] Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API (https://blog.n8n.io/n8n-nvidia-dgx-spark/)
-- [n8n Blog] 12 Best Enterprise Workflow Automation Platforms (https://blog.n8n.io/enterprise-workflow-automation/)
 
 ## Non-Negotiable Daily Checklist
 
