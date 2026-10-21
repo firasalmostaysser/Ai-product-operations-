@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-10-20
+# Daily AI Career Brief - 2026-10-21
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **GTM Automation**: Focus on account research, prospect scoring, and outreach personalization.
+- **Agent Building**: Focus on tool schemas, planner-executor flow, and fallback logic.
 
 ## Priority Themes
 
@@ -30,10 +30,10 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
-- [OpenAI News] Advancing coding in low‑resource programming languages (https://openai.com/index/low-resource-programming-languages)
-- [OpenAI News] How Itaú is building generative AI for its entire customer base (https://openai.com/index/itau-generative-ai)
-- [Hugging Face Blog] MPS in PyTorch 2.15 (https://huggingface.co/blog/mps-pytorch-2-15)
-- [Hugging Face Blog] TorchNeuron: running HF models on AWS Trainium is easier than ever (https://huggingface.co/blog/hf-torchneuron)
+- [OpenAI News] Franchisee reconciles cash in 94% less time with ChatGPT Work (https://openai.com/index/ted-taylor-restaurant)
+- [OpenAI News] Terminal X matches senior investor judgment 88.6% with GPT-6.1 (https://openai.com/index/terminal-x)
+- [Hugging Face Blog] NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability (https://huggingface.co/blog/nvidia/kumo-forecast)
+- [Hugging Face Blog] FairStress: A deeper evaluation of fairness in LLM decision-making (https://huggingface.co/blog/allenai/fairstress)
 - [n8n Blog] Why we refreshed the n8n brand (https://blog.n8n.io/n8n-brand-refresh-2026/)
 - [n8n Blog] Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API (https://blog.n8n.io/n8n-nvidia-dgx-spark/)
 
