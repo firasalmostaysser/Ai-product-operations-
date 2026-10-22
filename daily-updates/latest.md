@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-10-21
+# Daily AI Career Brief - 2026-10-22
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **Agent Building**: Focus on tool schemas, planner-executor flow, and fallback logic.
+- **MCP and Integrations**: Focus on tool/resource contracts and secure system boundaries.
 
 ## Priority Themes
 
@@ -30,10 +30,10 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
-- [OpenAI News] Franchisee reconciles cash in 94% less time with ChatGPT Work (https://openai.com/index/ted-taylor-restaurant)
-- [OpenAI News] Terminal X matches senior investor judgment 88.6% with GPT-6.1 (https://openai.com/index/terminal-x)
-- [Hugging Face Blog] NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability (https://huggingface.co/blog/nvidia/kumo-forecast)
-- [Hugging Face Blog] FairStress: A deeper evaluation of fairness in LLM decision-making (https://huggingface.co/blog/allenai/fairstress)
+- [OpenAI News] How AT&T is rethinking in-house legal work with OpenAI (https://openai.com/index/att-legal)
+- [OpenAI News] Broad access through consistent standards (https://openai.com/index/broad-access-through-consistent-standards)
+- [Hugging Face Blog] Ensemble forecasting with IBM Granite time-series models (https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1)
+- [Hugging Face Blog] NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required (https://huggingface.co/blog/nvidia/kumo-relational)
 - [n8n Blog] Why we refreshed the n8n brand (https://blog.n8n.io/n8n-brand-refresh-2026/)
 - [n8n Blog] Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API (https://blog.n8n.io/n8n-nvidia-dgx-spark/)
 
