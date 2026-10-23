@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-10-22
+# Daily AI Career Brief - 2026-10-23
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **MCP and Integrations**: Focus on tool/resource contracts and secure system boundaries.
+- **Portfolio and Publishing**: Focus on case-study quality, metrics narrative, and public visibility.
 
 ## Priority Themes
 
@@ -30,12 +30,12 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
-- [OpenAI News] How AT&T is rethinking in-house legal work with OpenAI (https://openai.com/index/att-legal)
-- [OpenAI News] Broad access through consistent standards (https://openai.com/index/broad-access-through-consistent-standards)
-- [Hugging Face Blog] Ensemble forecasting with IBM Granite time-series models (https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1)
-- [Hugging Face Blog] NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required (https://huggingface.co/blog/nvidia/kumo-relational)
-- [n8n Blog] Why we refreshed the n8n brand (https://blog.n8n.io/n8n-brand-refresh-2026/)
-- [n8n Blog] Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API (https://blog.n8n.io/n8n-nvidia-dgx-spark/)
+- [OpenAI News] OpenAI and Poland’s NASK partner to advance AI safety and security (https://openai.com/index/openai-nask-ai-safety-security-partnership)
+- [OpenAI News] Build more responsive apps with the Decisions API (https://openai.com/index/decisions-api)
+- [Hugging Face Blog] Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox (https://huggingface.co/blog/microsoft/thinkingbox-training)
+- [Hugging Face Blog] OlmoEarth v1.3: State-of-the-art embeddings for the whole planet (https://huggingface.co/blog/allenai/olmoearth-v1-3)
+- [n8n Blog] AI Agent Memory: How LLM Agents Manage State in Production (https://blog.n8n.io/ai-agent-memory-how-llm-agents-manage-state-in-production/)
+- [n8n Blog] Hallucination Detection Methods for AI Agent Workflows (https://blog.n8n.io/hallucination-detection-methods-for-ai-agent-workflows/)
 
 ## Non-Negotiable Daily Checklist
 
