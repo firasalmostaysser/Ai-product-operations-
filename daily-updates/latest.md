@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-10-23
+# Daily AI Career Brief - 2026-10-24
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **Portfolio and Publishing**: Focus on case-study quality, metrics narrative, and public visibility.
+- **Interview and Communication**: Focus on recorded answers and concise storytelling with STAR format.
 
 ## Priority Themes
 
@@ -30,10 +30,10 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
-- [OpenAI News] OpenAI and Poland’s NASK partner to advance AI safety and security (https://openai.com/index/openai-nask-ai-safety-security-partnership)
-- [OpenAI News] Build more responsive apps with the Decisions API (https://openai.com/index/decisions-api)
-- [Hugging Face Blog] Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox (https://huggingface.co/blog/microsoft/thinkingbox-training)
-- [Hugging Face Blog] OlmoEarth v1.3: State-of-the-art embeddings for the whole planet (https://huggingface.co/blog/allenai/olmoearth-v1-3)
+- [OpenAI News] Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II) (https://openai.com/index/scaling-storage-one-billion-users-part-two)
+- [OpenAI News] Securing our frontier model training environment (https://openai.com/index/securing-our-frontier-model-training-environment)
+- [Hugging Face Blog] LitPivot: Developing research ideas through dynamic contextualization within the literature landscape (https://huggingface.co/blog/allenai/litpivot)
+- [Hugging Face Blog] Does Your Model Run on AWS Trainium? Look It Up (https://huggingface.co/blog/torch-neuronx-model-support)
 - [n8n Blog] AI Agent Memory: How LLM Agents Manage State in Production (https://blog.n8n.io/ai-agent-memory-how-llm-agents-manage-state-in-production/)
 - [n8n Blog] Hallucination Detection Methods for AI Agent Workflows (https://blog.n8n.io/hallucination-detection-methods-for-ai-agent-workflows/)
 
