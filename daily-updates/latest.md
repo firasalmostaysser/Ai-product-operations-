@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-10-25
+# Daily AI Career Brief - 2026-10-26
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **Review and Planning**: Focus on weekly scoreboard, gaps, and next week's execution plan.
+- **AI Product Operations**: Focus on triage quality, incident routing, and handoff documentation.
 
 ## Priority Themes
 
