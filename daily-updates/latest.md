@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-10-27
+# Daily AI Career Brief - 2026-10-28
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **GTM Automation**: Focus on account research, prospect scoring, and outreach personalization.
+- **Agent Building**: Focus on tool schemas, planner-executor flow, and fallback logic.
 
 ## Priority Themes
 
@@ -30,10 +30,10 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
-- [OpenAI News] Greptile takes bug detection beyond code review with GPT-6 Astra (https://openai.com/index/greptile-code-review-codex-astra)
-- [OpenAI News] Working with academic communities to build scientific understanding (https://openai.com/index/building-scientific-understanding-with-academic-communities)
-- [Hugging Face Blog] LitPivot: Developing research ideas through dynamic contextualization within the literature landscape (https://huggingface.co/blog/allenai/litpivot)
-- [Hugging Face Blog] Does Your Model Run on AWS Trainium? Look It Up (https://huggingface.co/blog/torch-neuronx-model-support)
+- [OpenAI News] Legora is building the agentic operating system for legal work (https://openai.com/index/legora-agentic-operating-system-for-legal-work)
+- [OpenAI News] Retell uses OpenAI models to help power 100M monthly calls (https://openai.com/index/retell-ai)
+- [Hugging Face Blog] Build specialized multimodal models with LFM3 (https://huggingface.co/blog/LiquidAI/lfm3)
+- [Hugging Face Blog] Can we trust LLMs to judge whether a research idea is novel? (https://huggingface.co/blog/allenai/novelty-bench)
 - [n8n Blog] Introducing n8n 3.0 (https://blog.n8n.io/introducing-n8n-v3/)
 - [n8n Blog] AI Agent Memory: How LLM Agents Manage State in Production (https://blog.n8n.io/ai-agent-memory-how-llm-agents-manage-state-in-production/)
 
