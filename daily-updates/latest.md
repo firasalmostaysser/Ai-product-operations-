@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-10-28
+# Daily AI Career Brief - 2026-10-29
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **Agent Building**: Focus on tool schemas, planner-executor flow, and fallback logic.
+- **MCP and Integrations**: Focus on tool/resource contracts and secure system boundaries.
 
 ## Priority Themes
 
@@ -30,12 +30,12 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
-- [OpenAI News] Legora is building the agentic operating system for legal work (https://openai.com/index/legora-agentic-operating-system-for-legal-work)
-- [OpenAI News] Retell uses OpenAI models to help power 100M monthly calls (https://openai.com/index/retell-ai)
-- [Hugging Face Blog] Build specialized multimodal models with LFM3 (https://huggingface.co/blog/LiquidAI/lfm3)
-- [Hugging Face Blog] Can we trust LLMs to judge whether a research idea is novel? (https://huggingface.co/blog/allenai/novelty-bench)
+- [OpenAI News] OpenAI and ServiceNow expand partnership across enterprise workflows (https://openai.com/index/openai-servicenow-partnership-expansion)
+- [OpenAI News] The future of the firm (https://openai.com/index/the-future-of-the-firm)
+- [Hugging Face Blog] Granite Switch 4.1.1 — Update models like you update software (https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1)
+- [Hugging Face Blog] Welcome Le Chonk: Mistral Large 4 on Hugging Face (https://huggingface.co/blog/mistral-large4)
+- [n8n Blog] Why We're Moving n8n's Automation Team Beyond the Service Desk Model (https://blog.n8n.io/why-were-moving-n8ns-automation-team-beyond-the-service-desk-model/)
 - [n8n Blog] Introducing n8n 3.0 (https://blog.n8n.io/introducing-n8n-v3/)
-- [n8n Blog] AI Agent Memory: How LLM Agents Manage State in Production (https://blog.n8n.io/ai-agent-memory-how-llm-agents-manage-state-in-production/)
 
 ## Non-Negotiable Daily Checklist
 
