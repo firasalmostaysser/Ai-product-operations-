@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-11-01
+# Daily AI Career Brief - 2026-11-02
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **Review and Planning**: Focus on weekly scoreboard, gaps, and next week's execution plan.
+- **AI Product Operations**: Focus on triage quality, incident routing, and handoff documentation.
 
 ## Priority Themes
 
@@ -30,8 +30,8 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
+- [OpenAI News] Introducing the Grid Protectors Program (https://openai.com/index/grid-protectors-program)
 - [OpenAI News] Making it easier for websites to express AI training preferences (https://openai.com/index/helping-websites-express-ai-training-preferences)
-- [OpenAI News] Community safety report and new protections for teens (https://openai.com/index/community-safety-report-and-new-protections-for-teens)
 - [Hugging Face Blog] nemotron-halloween (https://huggingface.co/blog/nvidia/nemotron-halloween)
 - [Hugging Face Blog] Granite Switch 4.1.1 — Update models like you update software (https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1)
 - [n8n Blog] Throttling vs. Rate Limiting: Backoff Strategies for Workflows (https://blog.n8n.io/throttling-vs-rate-limiting/)
