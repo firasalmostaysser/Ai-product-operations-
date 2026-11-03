@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-11-02
+# Daily AI Career Brief - 2026-11-03
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **AI Product Operations**: Focus on triage quality, incident routing, and handoff documentation.
+- **GTM Automation**: Focus on account research, prospect scoring, and outreach personalization.
 
 ## Priority Themes
 
@@ -30,10 +30,10 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
-- [OpenAI News] Introducing the Grid Protectors Program (https://openai.com/index/grid-protectors-program)
-- [OpenAI News] Making it easier for websites to express AI training preferences (https://openai.com/index/helping-websites-express-ai-training-preferences)
+- [OpenAI News] Heimstaden is changing residential real estate management with AI (https://openai.com/index/heimstaden)
+- [OpenAI News] Scaling Git at OpenAI (https://openai.com/index/scaling-git-at-openai)
+- [Hugging Face Blog] Transformers Model Integration Contracts (https://huggingface.co/blog/transformers-mic)
 - [Hugging Face Blog] nemotron-halloween (https://huggingface.co/blog/nvidia/nemotron-halloween)
-- [Hugging Face Blog] Granite Switch 4.1.1 — Update models like you update software (https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1)
 - [n8n Blog] Throttling vs. Rate Limiting: Backoff Strategies for Workflows (https://blog.n8n.io/throttling-vs-rate-limiting/)
 - [n8n Blog] Why We're Moving n8n's Automation Team Beyond the Service Desk Model (https://blog.n8n.io/why-were-moving-n8ns-automation-team-beyond-the-service-desk-model/)
 
