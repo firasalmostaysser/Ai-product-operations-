@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-11-03
+# Daily AI Career Brief - 2026-11-04
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **GTM Automation**: Focus on account research, prospect scoring, and outreach personalization.
+- **Agent Building**: Focus on tool schemas, planner-executor flow, and fallback logic.
 
 ## Priority Themes
 
@@ -30,10 +30,10 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
-- [OpenAI News] Heimstaden is changing residential real estate management with AI (https://openai.com/index/heimstaden)
-- [OpenAI News] Scaling Git at OpenAI (https://openai.com/index/scaling-git-at-openai)
-- [Hugging Face Blog] Transformers Model Integration Contracts (https://huggingface.co/blog/transformers-mic)
-- [Hugging Face Blog] nemotron-halloween (https://huggingface.co/blog/nvidia/nemotron-halloween)
+- [OpenAI News] OpenAI to acquire Pierre Computer Company, Inc. (https://openai.com/index/openai-to-acquire-pierre)
+- [OpenAI News] Daybreak Red is now available in AWS GovCloud (US-East) (https://openai.com/index/daybreak-red-aws-govcloud)
+- [Hugging Face Blog] StateBench: Testing how language models track state changes over long documents (https://huggingface.co/blog/allenai/statebench)
+- [Hugging Face Blog] Palette: teaching a small model to build decks in your design language (https://huggingface.co/blog/ibm-research/palette-deck-building)
 - [n8n Blog] Throttling vs. Rate Limiting: Backoff Strategies for Workflows (https://blog.n8n.io/throttling-vs-rate-limiting/)
 - [n8n Blog] Why We're Moving n8n's Automation Team Beyond the Service Desk Model (https://blog.n8n.io/why-were-moving-n8ns-automation-team-beyond-the-service-desk-model/)
 
