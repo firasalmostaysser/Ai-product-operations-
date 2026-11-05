@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-11-04
+# Daily AI Career Brief - 2026-11-05
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **Agent Building**: Focus on tool schemas, planner-executor flow, and fallback logic.
+- **MCP and Integrations**: Focus on tool/resource contracts and secure system boundaries.
 
 ## Priority Themes
 
@@ -30,10 +30,10 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
+- [OpenAI News] Setting a new standard for responsible AI infrastructure (https://openai.com/index/setting-new-standard-responsible-ai-infrastructure)
 - [OpenAI News] OpenAI to acquire Pierre Computer Company, Inc. (https://openai.com/index/openai-to-acquire-pierre)
-- [OpenAI News] Daybreak Red is now available in AWS GovCloud (US-East) (https://openai.com/index/daybreak-red-aws-govcloud)
-- [Hugging Face Blog] StateBench: Testing how language models track state changes over long documents (https://huggingface.co/blog/allenai/statebench)
-- [Hugging Face Blog] Palette: teaching a small model to build decks in your design language (https://huggingface.co/blog/ibm-research/palette-deck-building)
+- [Hugging Face Blog] A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks. (https://huggingface.co/blog/phonon-tts)
+- [Hugging Face Blog] Dharma Field Extractor: Any Document In, Structured Fields in JSON Out (https://huggingface.co/blog/Dharma-AI/dharma-field-extractor)
 - [n8n Blog] Throttling vs. Rate Limiting: Backoff Strategies for Workflows (https://blog.n8n.io/throttling-vs-rate-limiting/)
 - [n8n Blog] Why We're Moving n8n's Automation Team Beyond the Service Desk Model (https://blog.n8n.io/why-were-moving-n8ns-automation-team-beyond-the-service-desk-model/)
 
