@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-11-05
+# Daily AI Career Brief - 2026-11-06
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **MCP and Integrations**: Focus on tool/resource contracts and secure system boundaries.
+- **Portfolio and Publishing**: Focus on case-study quality, metrics narrative, and public visibility.
 
 ## Priority Themes
 
@@ -30,10 +30,10 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
-- [OpenAI News] Setting a new standard for responsible AI infrastructure (https://openai.com/index/setting-new-standard-responsible-ai-infrastructure)
-- [OpenAI News] OpenAI to acquire Pierre Computer Company, Inc. (https://openai.com/index/openai-to-acquire-pierre)
-- [Hugging Face Blog] A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks. (https://huggingface.co/blog/phonon-tts)
-- [Hugging Face Blog] Dharma Field Extractor: Any Document In, Structured Fields in JSON Out (https://huggingface.co/blog/Dharma-AI/dharma-field-extractor)
+- [OpenAI News] Australian universities are creating AI-native graduates (https://openai.com/index/australian-universities-ai-native-graduates)
+- [OpenAI News] Cult.fit builds operational muscle with Codex (https://openai.com/index/cultfit-builds-with-codex)
+- [Hugging Face Blog] ToyBlocks: A controlled world for robot learning and evaluation (https://huggingface.co/blog/allenai/toyblocks)
+- [Hugging Face Blog] Egyptian and Nigerian English join the Open ASR Leaderboard (https://huggingface.co/blog/open-asr-leaderboard-liva)
 - [n8n Blog] Throttling vs. Rate Limiting: Backoff Strategies for Workflows (https://blog.n8n.io/throttling-vs-rate-limiting/)
 - [n8n Blog] Why We're Moving n8n's Automation Team Beyond the Service Desk Model (https://blog.n8n.io/why-were-moving-n8ns-automation-team-beyond-the-service-desk-model/)
 
