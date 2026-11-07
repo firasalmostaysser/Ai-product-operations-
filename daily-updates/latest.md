@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-11-06
+# Daily AI Career Brief - 2026-11-07
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **Portfolio and Publishing**: Focus on case-study quality, metrics narrative, and public visibility.
+- **Interview and Communication**: Focus on recorded answers and concise storytelling with STAR format.
 
 ## Priority Themes
 
@@ -30,8 +30,8 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
-- [OpenAI News] Australian universities are creating AI-native graduates (https://openai.com/index/australian-universities-ai-native-graduates)
-- [OpenAI News] Cult.fit builds operational muscle with Codex (https://openai.com/index/cultfit-builds-with-codex)
+- [OpenAI News] Partnering with Hacktron to find vulnerabilities in OpenAI’s systems (https://openai.com/index/partnering-with-hacktron)
+- [OpenAI News] Measuring how AI agents handle everyday wet-lab science (https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science)
 - [Hugging Face Blog] ToyBlocks: A controlled world for robot learning and evaluation (https://huggingface.co/blog/allenai/toyblocks)
 - [Hugging Face Blog] Egyptian and Nigerian English join the Open ASR Leaderboard (https://huggingface.co/blog/open-asr-leaderboard-liva)
 - [n8n Blog] Throttling vs. Rate Limiting: Backoff Strategies for Workflows (https://blog.n8n.io/throttling-vs-rate-limiting/)
