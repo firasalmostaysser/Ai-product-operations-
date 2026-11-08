@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-11-07
+# Daily AI Career Brief - 2026-11-08
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **Interview and Communication**: Focus on recorded answers and concise storytelling with STAR format.
+- **Review and Planning**: Focus on weekly scoreboard, gaps, and next week's execution plan.
 
 ## Priority Themes
 
@@ -34,8 +34,8 @@ Use this brief to decide what to build, apply for, and publish today.
 - [OpenAI News] Measuring how AI agents handle everyday wet-lab science (https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science)
 - [Hugging Face Blog] ToyBlocks: A controlled world for robot learning and evaluation (https://huggingface.co/blog/allenai/toyblocks)
 - [Hugging Face Blog] Egyptian and Nigerian English join the Open ASR Leaderboard (https://huggingface.co/blog/open-asr-leaderboard-liva)
+- [n8n Blog] Send contracts for e-signature from n8n, with TurboDocx, Slack approval and SharePoint filing (https://blog.n8n.io/spotlight-turbodocx/)
 - [n8n Blog] Throttling vs. Rate Limiting: Backoff Strategies for Workflows (https://blog.n8n.io/throttling-vs-rate-limiting/)
-- [n8n Blog] Why We're Moving n8n's Automation Team Beyond the Service Desk Model (https://blog.n8n.io/why-were-moving-n8ns-automation-team-beyond-the-service-desk-model/)
 
 ## Non-Negotiable Daily Checklist
 
