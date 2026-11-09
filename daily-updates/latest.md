@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-11-08
+# Daily AI Career Brief - 2026-11-09
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **Review and Planning**: Focus on weekly scoreboard, gaps, and next week's execution plan.
+- **AI Product Operations**: Focus on triage quality, incident routing, and handoff documentation.
 
 ## Priority Themes
 
@@ -32,10 +32,10 @@ Use this brief to decide what to build, apply for, and publish today.
 
 - [OpenAI News] Partnering with Hacktron to find vulnerabilities in OpenAI’s systems (https://openai.com/index/partnering-with-hacktron)
 - [OpenAI News] Measuring how AI agents handle everyday wet-lab science (https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science)
-- [Hugging Face Blog] ToyBlocks: A controlled world for robot learning and evaluation (https://huggingface.co/blog/allenai/toyblocks)
-- [Hugging Face Blog] Egyptian and Nigerian English join the Open ASR Leaderboard (https://huggingface.co/blog/open-asr-leaderboard-liva)
+- [Hugging Face Blog] Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context (https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan)
+- [Hugging Face Blog] Your Experts Have Partners. There's HOPE for Keeping Them Together (https://huggingface.co/blog/amazon/higher-order-pruning-experts)
 - [n8n Blog] Send contracts for e-signature from n8n, with TurboDocx, Slack approval and SharePoint filing (https://blog.n8n.io/spotlight-turbodocx/)
-- [n8n Blog] Throttling vs. Rate Limiting: Backoff Strategies for Workflows (https://blog.n8n.io/throttling-vs-rate-limiting/)
+- [n8n Blog] Throttling vs. rate limiting: Backoff strategies for workflows (https://blog.n8n.io/throttling-vs-rate-limiting/)
 
 ## Non-Negotiable Daily Checklist
 
