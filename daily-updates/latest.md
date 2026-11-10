@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-11-09
+# Daily AI Career Brief - 2026-11-10
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **AI Product Operations**: Focus on triage quality, incident routing, and handoff documentation.
+- **GTM Automation**: Focus on account research, prospect scoring, and outreach personalization.
 
 ## Priority Themes
 
@@ -30,12 +30,12 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
-- [OpenAI News] Partnering with Hacktron to find vulnerabilities in OpenAI’s systems (https://openai.com/index/partnering-with-hacktron)
-- [OpenAI News] Measuring how AI agents handle everyday wet-lab science (https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science)
+- [OpenAI News] Helping caregivers use AI in everyday life (https://openai.com/index/helping-caregivers-use-ai-in-everyday-life)
+- [OpenAI News] Closing the AI guidance gap in education (https://openai.com/index/closing-ai-guidance-gap-education)
+- [Hugging Face Blog] Decision Models in Hugging Face (https://huggingface.co/blog/decision)
 - [Hugging Face Blog] Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context (https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan)
-- [Hugging Face Blog] Your Experts Have Partners. There's HOPE for Keeping Them Together (https://huggingface.co/blog/amazon/higher-order-pruning-experts)
+- [n8n Blog] Meet Nod: a standalone personal agent from n8n Labs that runs on your computer (https://blog.n8n.io/meet-nod/)
 - [n8n Blog] Send contracts for e-signature from n8n, with TurboDocx, Slack approval and SharePoint filing (https://blog.n8n.io/spotlight-turbodocx/)
-- [n8n Blog] Throttling vs. rate limiting: Backoff strategies for workflows (https://blog.n8n.io/throttling-vs-rate-limiting/)
 
 ## Non-Negotiable Daily Checklist
 
