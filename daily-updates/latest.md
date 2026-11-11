@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-11-10
+# Daily AI Career Brief - 2026-11-11
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **GTM Automation**: Focus on account research, prospect scoring, and outreach personalization.
+- **Agent Building**: Focus on tool schemas, planner-executor flow, and fallback logic.
 
 ## Priority Themes
 
@@ -30,12 +30,12 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
-- [OpenAI News] Helping caregivers use AI in everyday life (https://openai.com/index/helping-caregivers-use-ai-in-everyday-life)
-- [OpenAI News] Closing the AI guidance gap in education (https://openai.com/index/closing-ai-guidance-gap-education)
-- [Hugging Face Blog] Decision Models in Hugging Face (https://huggingface.co/blog/decision)
-- [Hugging Face Blog] Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context (https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan)
-- [n8n Blog] Meet Nod: a standalone personal agent from n8n Labs that runs on your computer (https://blog.n8n.io/meet-nod/)
-- [n8n Blog] Send contracts for e-signature from n8n, with TurboDocx, Slack approval and SharePoint filing (https://blog.n8n.io/spotlight-turbodocx/)
+- [OpenAI News] Gilbert + Tobin rethinks the business of law with AI (https://openai.com/index/gilbert-tobin-sam-nickless)
+- [OpenAI News] ChatGPT Plus for veterans and servicemembers (https://openai.com/index/chatgpt-plus-for-veterans)
+- [Hugging Face Blog] BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model (https://huggingface.co/blog/qvac/botpsy)
+- [Hugging Face Blog] Token Pooling-Aware Training for Multi-Vector Embedding Models (https://huggingface.co/blog/token-pooling)
+- [n8n Blog] Microservices best practices every automation engineer should know (https://blog.n8n.io/microservices-best-practices/)
+- [n8n Blog] Batch processing patterns for workflow automation at scale (https://blog.n8n.io/batch-processing/)
 
 ## Non-Negotiable Daily Checklist
 
