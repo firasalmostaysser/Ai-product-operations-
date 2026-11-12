@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-11-11
+# Daily AI Career Brief - 2026-11-12
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **Agent Building**: Focus on tool schemas, planner-executor flow, and fallback logic.
+- **MCP and Integrations**: Focus on tool/resource contracts and secure system boundaries.
 
 ## Priority Themes
 
@@ -30,12 +30,12 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
-- [OpenAI News] Gilbert + Tobin rethinks the business of law with AI (https://openai.com/index/gilbert-tobin-sam-nickless)
-- [OpenAI News] ChatGPT Plus for veterans and servicemembers (https://openai.com/index/chatgpt-plus-for-veterans)
+- [OpenAI News] Holiday Extras is rethinking what it can build with Codex (https://openai.com/business/customer-stories/holidays-extras-codex)
+- [OpenAI News] Supporting research on AI and children’s safety (https://openai.com/index/children-first-declaration)
+- [Hugging Face Blog] The Definitive Fine-Tuning Guide for 3D Generation Models (https://huggingface.co/blog/3d-lora-finetuning)
 - [Hugging Face Blog] BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model (https://huggingface.co/blog/qvac/botpsy)
-- [Hugging Face Blog] Token Pooling-Aware Training for Multi-Vector Embedding Models (https://huggingface.co/blog/token-pooling)
+- [n8n Blog] The future of work is built by everyone (https://blog.n8n.io/the-future-of-work-is-built-by-everyone/)
 - [n8n Blog] Microservices best practices every automation engineer should know (https://blog.n8n.io/microservices-best-practices/)
-- [n8n Blog] Batch processing patterns for workflow automation at scale (https://blog.n8n.io/batch-processing/)
 
 ## Non-Negotiable Daily Checklist
 
