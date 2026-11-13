@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-11-12
+# Daily AI Career Brief - 2026-11-13
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **MCP and Integrations**: Focus on tool/resource contracts and secure system boundaries.
+- **Portfolio and Publishing**: Focus on case-study quality, metrics narrative, and public visibility.
 
 ## Priority Themes
 
@@ -30,12 +30,12 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
-- [OpenAI News] Holiday Extras is rethinking what it can build with Codex (https://openai.com/business/customer-stories/holidays-extras-codex)
-- [OpenAI News] Supporting research on AI and children’s safety (https://openai.com/index/children-first-declaration)
-- [Hugging Face Blog] The Definitive Fine-Tuning Guide for 3D Generation Models (https://huggingface.co/blog/3d-lora-finetuning)
-- [Hugging Face Blog] BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model (https://huggingface.co/blog/qvac/botpsy)
+- [OpenAI News] How Amplitude ships product improvements in 1–2 days with OpenAI (https://openai.com/business/customer-stories/amplitude)
+- [OpenAI News] Gondola doubles revenue as its team builds more with Codex (https://openai.com/business/customer-stories/gondola)
+- [Hugging Face Blog] llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem (https://huggingface.co/blog/ggml-org/llama-cpp-v1)
+- [Hugging Face Blog] LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B (https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite)
+- [n8n Blog] New in n8n: Public API rate limits that keep every team on your instance running (https://blog.n8n.io/new-in-n8n-public-api-rate-limits-that-keep-every-team-on-your-instance-running/)
 - [n8n Blog] The future of work is built by everyone (https://blog.n8n.io/the-future-of-work-is-built-by-everyone/)
-- [n8n Blog] Microservices best practices every automation engineer should know (https://blog.n8n.io/microservices-best-practices/)
 
 ## Non-Negotiable Daily Checklist
 
