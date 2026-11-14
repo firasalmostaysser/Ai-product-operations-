@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-11-13
+# Daily AI Career Brief - 2026-11-14
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **Portfolio and Publishing**: Focus on case-study quality, metrics narrative, and public visibility.
+- **Interview and Communication**: Focus on recorded answers and concise storytelling with STAR format.
 
 ## Priority Themes
 
@@ -30,10 +30,10 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
-- [OpenAI News] How Amplitude ships product improvements in 1–2 days with OpenAI (https://openai.com/business/customer-stories/amplitude)
-- [OpenAI News] Gondola doubles revenue as its team builds more with Codex (https://openai.com/business/customer-stories/gondola)
-- [Hugging Face Blog] llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem (https://huggingface.co/blog/ggml-org/llama-cpp-v1)
-- [Hugging Face Blog] LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B (https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite)
+- [OpenAI News] Introducing ChatGPT Wallet (https://openai.com/index/introducing-chatgpt-wallet)
+- [OpenAI News] Shield helps technicians hand off legacy portal work with OpenAI (https://openai.com/business/customer-stories/shield)
+- [Hugging Face Blog] Build a Robot Pick-and-Place Simulation with SimReady Assets (https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place)
+- [Hugging Face Blog] XYBench: Helping with the problem behind the question (https://huggingface.co/blog/allenai/xybench)
 - [n8n Blog] New in n8n: Public API rate limits that keep every team on your instance running (https://blog.n8n.io/new-in-n8n-public-api-rate-limits-that-keep-every-team-on-your-instance-running/)
 - [n8n Blog] The future of work is built by everyone (https://blog.n8n.io/the-future-of-work-is-built-by-everyone/)
 
