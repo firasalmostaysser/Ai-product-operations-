@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-11-15
+# Daily AI Career Brief - 2026-11-16
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **Review and Planning**: Focus on weekly scoreboard, gaps, and next week's execution plan.
+- **AI Product Operations**: Focus on triage quality, incident routing, and handoff documentation.
 
 ## Priority Themes
 
@@ -30,12 +30,12 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
-- [OpenAI News] Introducing ChatGPT Wallet (https://openai.com/index/introducing-chatgpt-wallet)
-- [OpenAI News] Shield helps technicians hand off legacy portal work with OpenAI (https://openai.com/business/customer-stories/shield)
+- [OpenAI News] LVMH’s Media Division announces strategic partnership with OpenAI (https://openai.com/index/lvmh-media-division-partnership)
+- [OpenAI News] Advancing computer-use agents for healthcare teams (https://openai.com/index/advancing-computer-use-for-healthcare-teams)
 - [Hugging Face Blog] Build a Robot Pick-and-Place Simulation with SimReady Assets (https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place)
 - [Hugging Face Blog] XYBench: Helping with the problem behind the question (https://huggingface.co/blog/allenai/xybench)
+- [n8n Blog] AI made integrations the vendor’s problem (https://blog.n8n.io/ai-made-integrations-the-vendors-problem/)
 - [n8n Blog] New in n8n: Public API rate limits that keep every team on your instance running (https://blog.n8n.io/new-in-n8n-public-api-rate-limits-that-keep-every-team-on-your-instance-running/)
-- [n8n Blog] The future of work is built by everyone (https://blog.n8n.io/the-future-of-work-is-built-by-everyone/)
 
 ## Non-Negotiable Daily Checklist
 
