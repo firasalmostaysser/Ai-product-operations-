@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-11-16
+# Daily AI Career Brief - 2026-11-17
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **AI Product Operations**: Focus on triage quality, incident routing, and handoff documentation.
+- **GTM Automation**: Focus on account research, prospect scoring, and outreach personalization.
 
 ## Priority Themes
 
@@ -30,10 +30,10 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
-- [OpenAI News] LVMH’s Media Division announces strategic partnership with OpenAI (https://openai.com/index/lvmh-media-division-partnership)
-- [OpenAI News] Advancing computer-use agents for healthcare teams (https://openai.com/index/advancing-computer-use-for-healthcare-teams)
+- [OpenAI News] Strengthening NATO and allied cyber defenses with AI (https://openai.com/index/strengthening-nato-allied-cyber-defences-ai)
+- [OpenAI News] Introducing OpenAI for Chile (https://openai.com/index/introducing-openai-for-chile)
+- [Hugging Face Blog] Hugging Face and OpenRouter join forces to make open-weight models easy to run (https://huggingface.co/blog/openrouter)
 - [Hugging Face Blog] Build a Robot Pick-and-Place Simulation with SimReady Assets (https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place)
-- [Hugging Face Blog] XYBench: Helping with the problem behind the question (https://huggingface.co/blog/allenai/xybench)
 - [n8n Blog] AI made integrations the vendor’s problem (https://blog.n8n.io/ai-made-integrations-the-vendors-problem/)
 - [n8n Blog] New in n8n: Public API rate limits that keep every team on your instance running (https://blog.n8n.io/new-in-n8n-public-api-rate-limits-that-keep-every-team-on-your-instance-running/)
 
