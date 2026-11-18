@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-11-17
+# Daily AI Career Brief - 2026-11-18
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **GTM Automation**: Focus on account research, prospect scoring, and outreach personalization.
+- **Agent Building**: Focus on tool schemas, planner-executor flow, and fallback logic.
 
 ## Priority Themes
 
@@ -30,10 +30,10 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
-- [OpenAI News] Strengthening NATO and allied cyber defenses with AI (https://openai.com/index/strengthening-nato-allied-cyber-defences-ai)
-- [OpenAI News] Introducing OpenAI for Chile (https://openai.com/index/introducing-openai-for-chile)
-- [Hugging Face Blog] Hugging Face and OpenRouter join forces to make open-weight models easy to run (https://huggingface.co/blog/openrouter)
-- [Hugging Face Blog] Build a Robot Pick-and-Place Simulation with SimReady Assets (https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place)
+- [OpenAI News] Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT (https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership)
+- [OpenAI News] Introducing GPT-6.2 Astra and Sol (https://openai.com/index/introducing-gpt-6-2-astra-sol)
+- [Hugging Face Blog] Time-Series Models in the Streamhouse: A New Frontier and Use Cases (https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse)
+- [Hugging Face Blog] Rumble-2-Flash: an open 0.5B speech model for 40+ languages (https://huggingface.co/blog/rumble-2-flash)
 - [n8n Blog] AI made integrations the vendor’s problem (https://blog.n8n.io/ai-made-integrations-the-vendors-problem/)
 - [n8n Blog] New in n8n: Public API rate limits that keep every team on your instance running (https://blog.n8n.io/new-in-n8n-public-api-rate-limits-that-keep-every-team-on-your-instance-running/)
 
