@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-11-18
+# Daily AI Career Brief - 2026-11-19
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **Agent Building**: Focus on tool schemas, planner-executor flow, and fallback logic.
+- **MCP and Integrations**: Focus on tool/resource contracts and secure system boundaries.
 
 ## Priority Themes
 
@@ -30,10 +30,10 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
-- [OpenAI News] Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT (https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership)
-- [OpenAI News] Introducing GPT-6.2 Astra and Sol (https://openai.com/index/introducing-gpt-6-2-astra-sol)
-- [Hugging Face Blog] Time-Series Models in the Streamhouse: A New Frontier and Use Cases (https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse)
-- [Hugging Face Blog] Rumble-2-Flash: an open 0.5B speech model for 40+ languages (https://huggingface.co/blog/rumble-2-flash)
+- [OpenAI News] The Silent Consensus (https://openai.com/index/the-silent-consensus)
+- [OpenAI News] Research acceleration: The jagged frontier (https://openai.com/index/research-acceleration-jagged-frontier)
+- [Hugging Face Blog] DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency (https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin)
+- [Hugging Face Blog] Why your fine-tuning job takes longer than the FLOPs say (https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time)
 - [n8n Blog] AI made integrations the vendor’s problem (https://blog.n8n.io/ai-made-integrations-the-vendors-problem/)
 - [n8n Blog] New in n8n: Public API rate limits that keep every team on your instance running (https://blog.n8n.io/new-in-n8n-public-api-rate-limits-that-keep-every-team-on-your-instance-running/)
 
