@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-11-19
+# Daily AI Career Brief - 2026-11-20
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **MCP and Integrations**: Focus on tool/resource contracts and secure system boundaries.
+- **Portfolio and Publishing**: Focus on case-study quality, metrics narrative, and public visibility.
 
 ## Priority Themes
 
@@ -30,10 +30,10 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
-- [OpenAI News] The Silent Consensus (https://openai.com/index/the-silent-consensus)
-- [OpenAI News] Research acceleration: The jagged frontier (https://openai.com/index/research-acceleration-jagged-frontier)
+- [OpenAI News] How OpenAI’s Performance Factory keeps ChatGPT fast (https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast)
+- [OpenAI News] Deploying Daybreak Red (https://openai.com/business/learn/deploying-daybreak-red)
+- [Hugging Face Blog] Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost (https://huggingface.co/blog/harness-adapters-at-scale)
 - [Hugging Face Blog] DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency (https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin)
-- [Hugging Face Blog] Why your fine-tuning job takes longer than the FLOPs say (https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time)
 - [n8n Blog] AI made integrations the vendor’s problem (https://blog.n8n.io/ai-made-integrations-the-vendors-problem/)
 - [n8n Blog] New in n8n: Public API rate limits that keep every team on your instance running (https://blog.n8n.io/new-in-n8n-public-api-rate-limits-that-keep-every-team-on-your-instance-running/)
 
