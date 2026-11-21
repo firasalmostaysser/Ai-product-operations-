@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-11-20
+# Daily AI Career Brief - 2026-11-21
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **Portfolio and Publishing**: Focus on case-study quality, metrics narrative, and public visibility.
+- **Interview and Communication**: Focus on recorded answers and concise storytelling with STAR format.
 
 ## Priority Themes
 
@@ -30,10 +30,10 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
-- [OpenAI News] How OpenAI’s Performance Factory keeps ChatGPT fast (https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast)
-- [OpenAI News] Deploying Daybreak Red (https://openai.com/business/learn/deploying-daybreak-red)
+- [OpenAI News] Combatting adversarial distillation (https://openai.com/index/combatting-adversarial-distillation)
+- [OpenAI News] Hebbia sees improvements in financial research with GPT-6 Astra (https://openai.com/business/customer-stories/hebbia)
+- [Hugging Face Blog] Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup (https://huggingface.co/blog/inkling2mini)
 - [Hugging Face Blog] Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost (https://huggingface.co/blog/harness-adapters-at-scale)
-- [Hugging Face Blog] DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency (https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin)
 - [n8n Blog] AI made integrations the vendor’s problem (https://blog.n8n.io/ai-made-integrations-the-vendors-problem/)
 - [n8n Blog] New in n8n: Public API rate limits that keep every team on your instance running (https://blog.n8n.io/new-in-n8n-public-api-rate-limits-that-keep-every-team-on-your-instance-running/)
 
