@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-11-22
+# Daily AI Career Brief - 2026-11-23
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **Review and Planning**: Focus on weekly scoreboard, gaps, and next week's execution plan.
+- **AI Product Operations**: Focus on triage quality, incident routing, and handoff documentation.
 
 ## Priority Themes
 
@@ -30,12 +30,12 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
+- [OpenAI News] Perplexity and Intelligence (https://openai.com/index/perplexity-and-intelligence)
 - [OpenAI News] Combatting adversarial distillation (https://openai.com/index/combatting-adversarial-distillation)
-- [OpenAI News] Hebbia sees improvements in financial research with GPT-6 Astra (https://openai.com/business/customer-stories/hebbia)
-- [Hugging Face Blog] Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup (https://huggingface.co/blog/inkling2mini)
-- [Hugging Face Blog] Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost (https://huggingface.co/blog/harness-adapters-at-scale)
+- [Hugging Face Blog] RoboTrack: Point tracking for real-world robotic manipulation (https://huggingface.co/blog/allenai/robotrack)
+- [Hugging Face Blog] How to build and maintain an agentic evaluation (https://huggingface.co/blog/agentic-evals)
+- [n8n Blog] The Monday morning incident: your “Lead Routing” workflow stopped routing (https://blog.n8n.io/the-monday-morning-incident-your-lead-routing-workflow-stopped-routing/)
 - [n8n Blog] AI made integrations the vendor’s problem (https://blog.n8n.io/ai-made-integrations-the-vendors-problem/)
-- [n8n Blog] New in n8n: Public API rate limits that keep every team on your instance running (https://blog.n8n.io/new-in-n8n-public-api-rate-limits-that-keep-every-team-on-your-instance-running/)
 
 ## Non-Negotiable Daily Checklist
 
