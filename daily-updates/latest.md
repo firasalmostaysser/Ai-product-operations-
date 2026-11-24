@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-11-23
+# Daily AI Career Brief - 2026-11-24
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **AI Product Operations**: Focus on triage quality, incident routing, and handoff documentation.
+- **GTM Automation**: Focus on account research, prospect scoring, and outreach personalization.
 
 ## Priority Themes
 
@@ -30,12 +30,12 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
-- [OpenAI News] Perplexity and Intelligence (https://openai.com/index/perplexity-and-intelligence)
-- [OpenAI News] Combatting adversarial distillation (https://openai.com/index/combatting-adversarial-distillation)
+- [OpenAI News] How iFood scales coding agents across 15,000 repositories (https://openai.com/index/ifood)
+- [OpenAI News] OpenAI and Cisco introduce Shirudo (https://openai.com/index/introducing-shirudo)
+- [Hugging Face Blog] Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton (https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance)
 - [Hugging Face Blog] RoboTrack: Point tracking for real-world robotic manipulation (https://huggingface.co/blog/allenai/robotrack)
-- [Hugging Face Blog] How to build and maintain an agentic evaluation (https://huggingface.co/blog/agentic-evals)
+- [n8n Blog] Production AI Playbook: Audit & trace for AI agents (https://blog.n8n.io/production-ai-playbook-audit-trace-for-ai-agents/)
 - [n8n Blog] The Monday morning incident: your “Lead Routing” workflow stopped routing (https://blog.n8n.io/the-monday-morning-incident-your-lead-routing-workflow-stopped-routing/)
-- [n8n Blog] AI made integrations the vendor’s problem (https://blog.n8n.io/ai-made-integrations-the-vendors-problem/)
 
 ## Non-Negotiable Daily Checklist
 
