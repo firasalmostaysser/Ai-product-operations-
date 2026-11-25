@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-11-24
+# Daily AI Career Brief - 2026-11-25
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **GTM Automation**: Focus on account research, prospect scoring, and outreach personalization.
+- **Agent Building**: Focus on tool schemas, planner-executor flow, and fallback logic.
 
 ## Priority Themes
 
@@ -30,10 +30,10 @@ Use this brief to decide what to build, apply for, and publish today.
 
 ## Live Market Signals
 
-- [OpenAI News] How iFood scales coding agents across 15,000 repositories (https://openai.com/index/ifood)
-- [OpenAI News] OpenAI and Cisco introduce Shirudo (https://openai.com/index/introducing-shirudo)
-- [Hugging Face Blog] Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton (https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance)
-- [Hugging Face Blog] RoboTrack: Point tracking for real-world robotic manipulation (https://huggingface.co/blog/allenai/robotrack)
+- [OpenAI News] GPT-6 models demonstrate intrinsic protein-design capabilities (https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities)
+- [OpenAI News] Searching for distant planets with Astra (https://openai.com/index/searching-for-distant-planets-with-astra)
+- [Hugging Face Blog] An Indic Voice Agent with CUGA (https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga)
+- [Hugging Face Blog] Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000 (https://huggingface.co/blog/inkling-2-mini-inference-hillclimb)
 - [n8n Blog] Production AI Playbook: Audit & trace for AI agents (https://blog.n8n.io/production-ai-playbook-audit-trace-for-ai-agents/)
 - [n8n Blog] The Monday morning incident: your “Lead Routing” workflow stopped routing (https://blog.n8n.io/the-monday-morning-incident-your-lead-routing-workflow-stopped-routing/)
 
