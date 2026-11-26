@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-11-25
+# Daily AI Career Brief - 2026-11-26
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **Agent Building**: Focus on tool schemas, planner-executor flow, and fallback logic.
+- **MCP and Integrations**: Focus on tool/resource contracts and secure system boundaries.
 
 ## Priority Themes
 
@@ -32,10 +32,10 @@ Use this brief to decide what to build, apply for, and publish today.
 
 - [OpenAI News] GPT-6 models demonstrate intrinsic protein-design capabilities (https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities)
 - [OpenAI News] Searching for distant planets with Astra (https://openai.com/index/searching-for-distant-planets-with-astra)
-- [Hugging Face Blog] An Indic Voice Agent with CUGA (https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga)
-- [Hugging Face Blog] Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000 (https://huggingface.co/blog/inkling-2-mini-inference-hillclimb)
+- [Hugging Face Blog] Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon (https://huggingface.co/blog/ggml-org/llamacpp-amd-bench)
+- [Hugging Face Blog] Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference (https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin)
+- [n8n Blog] AI Test Case Generation for Production QA Pipelines (https://blog.n8n.io/ai-test-case-generation/)
 - [n8n Blog] Production AI Playbook: Audit & trace for AI agents (https://blog.n8n.io/production-ai-playbook-audit-trace-for-ai-agents/)
-- [n8n Blog] The Monday morning incident: your “Lead Routing” workflow stopped routing (https://blog.n8n.io/the-monday-morning-incident-your-lead-routing-workflow-stopped-routing/)
 
 ## Non-Negotiable Daily Checklist
 
