@@ -1,10 +1,10 @@
-# Daily AI Career Brief - 2026-11-26
+# Daily AI Career Brief - 2026-11-27
 
 Use this brief to decide what to build, apply for, and publish today.
 
 ## Theme of the Day
 
-- **MCP and Integrations**: Focus on tool/resource contracts and secure system boundaries.
+- **Portfolio and Publishing**: Focus on case-study quality, metrics narrative, and public visibility.
 
 ## Priority Themes
 
@@ -32,10 +32,10 @@ Use this brief to decide what to build, apply for, and publish today.
 
 - [OpenAI News] GPT-6 models demonstrate intrinsic protein-design capabilities (https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities)
 - [OpenAI News] Searching for distant planets with Astra (https://openai.com/index/searching-for-distant-planets-with-astra)
+- [Hugging Face Blog] Taking Trainium3 to the Track: Generating Videos with LTX-2.5 (https://huggingface.co/blog/video-trainium3)
 - [Hugging Face Blog] Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon (https://huggingface.co/blog/ggml-org/llamacpp-amd-bench)
-- [Hugging Face Blog] Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference (https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin)
-- [n8n Blog] AI Test Case Generation for Production QA Pipelines (https://blog.n8n.io/ai-test-case-generation/)
-- [n8n Blog] Production AI Playbook: Audit & trace for AI agents (https://blog.n8n.io/production-ai-playbook-audit-trace-for-ai-agents/)
+- [n8n Blog] How Fault Tolerance Supports Reliable AI Workflows (https://blog.n8n.io/fault-tolerance/)
+- [n8n Blog] Architectural Patterns for Deterministic AI Pipelines (https://blog.n8n.io/deterministic-ai/)
 
 ## Non-Negotiable Daily Checklist
 
